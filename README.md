@@ -1,7 +1,7 @@
 # Product Owner - Enterprise account
 Product Owner @ Redesign Technologies -  profile README and product overview.
 
-<h1 align="center">👋 Hedi Souki says HI !</h1>
+<h1 align="center">👋 Hedi Souki vous passe le bonjour ! !</h1>
 <h3 align="center">Product Owner @ <span style="color:#2ea043">Redesign Technologies</span> / Paris Office </h3>
 
 <p align="center">
