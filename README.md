@@ -7,7 +7,7 @@ Product Owner @ Redesign Technologies -  profile README and product overview.
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Product%20Owner-2ea043?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Location-Paris-2ea043?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Company-Redesign%20-Group-2ea043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Company-Redesign%20Group-2ea043?style=for-the-badge" />
 </p>
 
 ---
