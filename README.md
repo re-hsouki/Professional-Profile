@@ -2,7 +2,7 @@
 Product Owner @ Redesign Technologies -  profile README and product overview.
 
 <h1 align="center">👋 Hedi Souki</h1>
-<h3 align="center">Product Owner @ <span style="color:#2ea043">Redesign Technologies</span> — Paris</h3>
+<h3 align="center">Product Owner @ <span style="color:#2ea043">Redesign Technologies</span> Paris Office </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Role-Product%20Owner-2ea043?style=for-the-badge" />
