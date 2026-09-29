@@ -33,7 +33,9 @@ Product Owner @ Redesign Technologies -  profile README and product overview.
 ---
 
 ## 📦 GO LIVE Deployment Status - Test Environments
+
 <p align="center">
+  
 | Product | 9 |
 |---|---|
 | Assets | 1 |
@@ -45,6 +47,7 @@ Product Owner @ Redesign Technologies -  profile README and product overview.
 | UIE | 7 |
 | C7E Studio | 8 |
 | ReX | 9 |
+
 </p>
 
 <p align="center">🌱 Building products end to end, one release at a time.</p>
