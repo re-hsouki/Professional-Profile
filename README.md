@@ -20,19 +20,9 @@ Product Owner @ Redesign Technologies -  profile README and product overview.
 
 ---
 
-## 🟢 Status Legend FOR GO LIVE
-
-<p>
-  <img src="https://img.shields.io/badge/Ready%20for%20Test-brightgreen?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/In%20Progress-yellow?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Not%20Ready-red?style=flat-square" />
-</p>
-
 ---
 
-## 📦 GO LIVE Deployment Status - Test Environments
+## 📦 ReTechnologies
 
 <div align="center">
 
@@ -50,4 +40,4 @@ Product Owner @ Redesign Technologies -  profile README and product overview.
 
 </div>
 
-<p align="center">🌱 Building products end to end, one release at a time.</p>
+<p align="center">🌱 Building products end to end.</p>
