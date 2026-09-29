@@ -33,17 +33,18 @@ Product Owner @ Redesign Technologies -  profile README and product overview.
 ---
 
 ## 📦 GO LIVE Deployment Status - Test Environments
-
-| Product | Status |
+<p align="center">
+| Product | 9 |
 |---|---|
-| Assets | ![ready](https://img.shields.io/badge/-Ready%20for%20Test-brightgreen?style=flat-square) |
-| Portal | ![ready](https://img.shields.io/badge/-Ready%20for%20Test-brightgreen?style=flat-square) |
-| Marketplace | ![ready](https://img.shields.io/badge/-Ready%20for%20Test-brightgreen?style=flat-square) |
-| GRC | ![not-ready](https://img.shields.io/badge/-Not%20Ready-red?style=flat-square) |
-| REAI | ![ready](https://img.shields.io/badge/-Ready%20for%20Test-brightgreen?style=flat-square) |
-| OpenCloud | ![ready](https://img.shields.io/badge/-Ready%20for%20Test-brightgreen?style=flat-square) |
-| UIE | ![in-progress](https://img.shields.io/badge/-In%20Progress-yellow?style=flat-square) |
-| C7E Studio | ![in-progress](https://img.shields.io/badge/-In%20Progress-yellow?style=flat-square) |
-| ReX | ![ready](https://img.shields.io/badge/-Ready%20for%20Test-brightgreen?style=flat-square) |
+| Assets | 1 |
+| Portal | 2 |
+| Marketplace | 3 |
+| GRC | 4 |
+| REAI | 5 |
+| OpenCloud | 6 |
+| UIE | 7 |
+| C7E Studio | 8 |
+| ReX | 9 |
+</p>
 
 <p align="center">🌱 Building products end to end, one release at a time.</p>
