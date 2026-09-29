@@ -16,13 +16,13 @@ Product Owner @ Redesign Technologies -  profile README and product overview.
 
 - **Bookstore.ia**
 - **Artist Anywhere**
-- **ReTechnologies (PRODUCTS IN GO LIVE)**
+- **ReTechnologies**
 
 ---
 
 ---
 
-## 📦 ReTechnologies
+## 📦 ReTechnologies Products
 
 <div align="center">
 
