@@ -1,4 +1,4 @@
-# Professional-Profile
+# Product Owner - Enterprise account
 Product Owner @ Redesign Technologies -  profile README and product overview.
 
 <h1 align="center">👋 Hedi Souki</h1>
